@@ -26,5 +26,19 @@ This program implements the Heap Sort algorithm in Python. It builds a Max Heap 
 
 The experiment demonstrates that Heap Sort is an efficient comparison-based sorting algorithm with a consistent time complexity of O(n log n) in the best, average, and worst cases. It provides reliable performance regardless of the input order and is suitable for sorting large datasets. Although it is not a stable sorting algorithm, Heap Sort is preferred when guaranteed O(n log n) performance and constant auxiliary space (O(1)) are required.
 
+# DAA_PRACTICAL_4
+# Summary
+In this practical, a factorial program was implemented using both iterative and recursive methods in Python. The iterative method calculates the factorial by using a loop, while the recursive method calculates it by calling the same function repeatedly until a base condition is reached. Both methods successfully produce the correct factorial value. The time complexity of both approaches is O(n), but the recursive method requires additional memory for function calls.
+
+# Conclusion
+Through this practical, we learned how to solve the factorial problem using two different approaches. The iterative method is simple, efficient, and uses less memory, making it suitable for larger inputs. The recursive method is easier to understand and demonstrates the concept of recursion effectively. Both approaches are important for learning programming concepts and understanding different ways to solve the same problem.
+
+# DAA_PRACTICAL_7
+# Summary
+In this practical, I implemented the Making Change Problem using Dynamic Programming. The aim was to find the minimum number of coins needed to make a given amount from the available coin denominations. By breaking the problem into smaller parts and storing the results, the program was able to solve the problem efficiently. This practical helped me understand how Dynamic Programming avoids repeated calculations and provides an optimal solution in less time.
+
+# Conclusion
+By completing this practical, I gained a better understanding of Dynamic Programming and its advantages over simple brute-force methods. I learned how storing previously calculated results can improve the efficiency of a program. The Making Change Problem is a good example of how Dynamic Programming can be used to solve real-life optimization problems. Overall, this practical improved my problem-solving skills and strengthened my understanding of Dynamic Programming concepts.
+
 
 
