@@ -8,36 +8,36 @@ The notebook shows that different sorting algorithms have varying levels of effi
 
 
 # DAA.PRATICAL_2
-# Summary:-
+# SUMMARY:-
 
 This program demonstrates the implementation of Linear Search and Binary Search algorithms in Python. It accepts user input, searches for a given element, measures the execution time, and displays the result along with the time complexity. Linear Search checks each element one by one, whereas Binary Search works on a sorted array by repeatedly dividing the search space into two halves, making it more efficient.
 
-# Conclusion:-
+# CONCLUSION:-
 
 The experiment shows that Binary Search is significantly faster than Linear Search for large sorted datasets, with a time complexity of O(log n) compared to O(n) for Linear Search. However, Binary Search requires the array to be sorted, while Linear Search can be applied to both sorted and unsorted data. Therefore, the choice of algorithm depends on the nature of the input data and the application's requirements.
 
 
 # DAA.PRATICAL_3
-# Summary:-
+# SUMMARY:-
 
 This program implements the Heap Sort algorithm in Python. It builds a Max Heap from the input array and repeatedly extracts the largest element to produce the sorted array in ascending order. The program also measures the execution time in microseconds and displays the best, average, and worst-case time complexities.
 
-# Conclusion:-
+# CONCLUSION:-
 
 The experiment demonstrates that Heap Sort is an efficient comparison-based sorting algorithm with a consistent time complexity of O(n log n) in the best, average, and worst cases. It provides reliable performance regardless of the input order and is suitable for sorting large datasets. Although it is not a stable sorting algorithm, Heap Sort is preferred when guaranteed O(n log n) performance and constant auxiliary space (O(1)) are required.
 
 # DAA_PRACTICAL_4
-# Summary
+# SUMMARY:
 In this practical, a factorial program was implemented using both iterative and recursive methods in Python. The iterative method calculates the factorial by using a loop, while the recursive method calculates it by calling the same function repeatedly until a base condition is reached. Both methods successfully produce the correct factorial value. The time complexity of both approaches is O(n), but the recursive method requires additional memory for function calls.
 
-# Conclusion
+# CONCLUSION:
 Through this practical, we learned how to solve the factorial problem using two different approaches. The iterative method is simple, efficient, and uses less memory, making it suitable for larger inputs. The recursive method is easier to understand and demonstrates the concept of recursion effectively. Both approaches are important for learning programming concepts and understanding different ways to solve the same problem.
 
 # DAA_PRACTICAL_7
-# Summary
+# SUMMARY:
 In this practical, I implemented the Making Change Problem using Dynamic Programming. The aim was to find the minimum number of coins needed to make a given amount from the available coin denominations. By breaking the problem into smaller parts and storing the results, the program was able to solve the problem efficiently. This practical helped me understand how Dynamic Programming avoids repeated calculations and provides an optimal solution in less time.
 
-# Conclusion
+# CONCLUSION:
 By completing this practical, I gained a better understanding of Dynamic Programming and its advantages over simple brute-force methods. I learned how storing previously calculated results can improve the efficiency of a program. The Making Change Problem is a good example of how Dynamic Programming can be used to solve real-life optimization problems. Overall, this practical improved my problem-solving skills and strengthened my understanding of Dynamic Programming concepts.
 
 
