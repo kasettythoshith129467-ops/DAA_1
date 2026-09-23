@@ -47,6 +47,7 @@ In this practical, I implemented the Making Change Problem using Dynamic Program
 # CONCLUSION:
 By completing this practical, I gained a better understanding of Dynamic Programming and its advantages over simple brute-force methods. I learned how storing previously calculated results can improve the efficiency of a program. The Making Change Problem is a good example of how Dynamic Programming can be used to solve real-life optimization problems. Overall, this practical improved my problem-solving skills and strengthened my understanding of Dynamic Programming concepts.
 
+# DAA.PRATICAL_8
 # SUMMARY:
 In this practical, I implemented a graph using Python and performed graph traversal using **Breadth First Search (BFS)** and **Depth First Search (DFS)**. BFS visits the nodes level by level using a queue, while DFS explores one path deeply before backtracking using recursion or a stack. Different graph structures were used to understand how both searching techniques work and how their traversal order changes depending on the connections between nodes.
 
