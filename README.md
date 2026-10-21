@@ -47,11 +47,48 @@ In this practical, I implemented the Making Change Problem using Dynamic Program
 # CONCLUSION:
 By completing this practical, I gained a better understanding of Dynamic Programming and its advantages over simple brute-force methods. I learned how storing previously calculated results can improve the efficiency of a program. The Making Change Problem is a good example of how Dynamic Programming can be used to solve real-life optimization problems. Overall, this practical improved my problem-solving skills and strengthened my understanding of Dynamic Programming concepts.
 
-# DAA.PRATICAL_8
+# DAA.PRACTICAL_8
 # SUMMARY:
 In this practical, I implemented a graph using Python and performed graph traversal using **Breadth First Search (BFS)** and **Depth First Search (DFS)**. BFS visits the nodes level by level using a queue, while DFS explores one path deeply before backtracking using recursion or a stack. Different graph structures were used to understand how both searching techniques work and how their traversal order changes depending on the connections between nodes.
 
 # CONCLUSION:
 From this practical, I understood how graphs can be represented and traversed using BFS and DFS. BFS is useful when we need to explore nodes level by level, especially for finding the shortest path in an unweighted graph. DFS is useful for exploring a graph deeply and is commonly used in problems such as path finding and cycle detection. Overall, this practical helped me understand the working and implementation of both graph searching techniques in Python.
+
+# DAA_PRACTICAL_9
+
+# SUMMARY: 
+Prim’s algorithm is used to find the Minimum Spanning Tree (MST) of a connected, weighted graph. It starts from one vertex and repeatedly selects the minimum-weight edge that connects a selected vertex to an unselected vertex.
+
+# CONCLUSION:
+Thus, Prim’s algorithm was successfully implemented in Python. The program selects the minimum-weight edges to connect all vertices without forming a cycle and finds the total minimum cost of the spanning tree.
+
+
+# DAA_PRACTICAL_10
+
+# SUMMARY: 
+Kruskal’s algorithm is used to find the Minimum Spanning Tree of a weighted graph. It sorts all edges in ascending order of their weights and selects the smallest edges one by one, avoiding edges that form a cycle.
+
+# CONCLUSION:
+Thus, Kruskal’s algorithm was successfully implemented in Python. The program finds the minimum-cost spanning tree by selecting suitable edges and calculates the total weight required to connect all vertices.
+
+
+# DAA_PRACTICAL_11
+
+# SUMMARY: 
+The Floyd–Warshall algorithm is used to find the shortest distances between all pairs of vertices in a graph. It checks whether a shorter path exists through an intermediate vertex and updates the distance matrix whenever a shorter path is found.
+
+# CONCLUSION:
+Thus, the Floyd–Warshall algorithm was successfully implemented in Python. The program calculates the shortest distances between every pair of vertices and displays the final distance matrix.
+
+
+# DAA_PRACTICAL_12
+
+# SUMMARY: 
+The Travelling Salesman Problem is used to find the minimum-cost tour in which a salesman visits every city exactly once and returns to the starting city. In this program, different possible routes are checked, and their travel costs are compared to find the shortest tour.
+
+# CONCLUSION: 
+Thus, the Travelling Salesman Problem was successfully implemented in Python using the brute-force method. The program checks all possible tours and displays the route with the minimum travel cost.
+
+
 
 
